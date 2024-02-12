@@ -1,0 +1,36 @@
+C:\Users\Bruna\Desktop\SOFTWARE ENG. TECH\Centennial\2 TERMO\COMP 123\Assignment GUI\Assignment GUI\obj\Debug\net6.0-windows\Assignment GUI.csproj.AssemblyReference.cache
+C:\Users\Bruna\Desktop\SOFTWARE ENG. TECH\Centennial\2 TERMO\COMP 123\Assignment GUI\Assignment GUI\obj\Debug\net6.0-windows\Assignment_GUI.Bruna.resources
+C:\Users\Bruna\Desktop\SOFTWARE ENG. TECH\Centennial\2 TERMO\COMP 123\Assignment GUI\Assignment GUI\obj\Debug\net6.0-windows\Assignment GUI.csproj.GenerateResource.cache
+C:\Users\Bruna\Desktop\SOFTWARE ENG. TECH\Centennial\2 TERMO\COMP 123\Assignment GUI\Assignment GUI\obj\Debug\net6.0-windows\Assignment GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruna\Desktop\SOFTWARE ENG. TECH\Centennial\2 TERMO\COMP 123\Assignment GUI\Assignment GUI\obj\Debug\net6.0-windows\Assignment GUI.AssemblyInfoInputs.cache
+C:\Users\Bruna\Desktop\SOFTWARE ENG. TECH\Centennial\2 TERMO\COMP 123\Assignment GUI\Assignment GUI\obj\Debug\net6.0-windows\Assignment GUI.AssemblyInfo.cs
+C:\Users\Bruna\Desktop\SOFTWARE ENG. TECH\Centennial\2 TERMO\COMP 123\Assignment GUI\Assignment GUI\obj\Debug\net6.0-windows\Assignment GUI.csproj.CoreCompileInputs.cache
+C:\Users\Bruna\Desktop\SOFTWARE ENG. TECH\Centennial\2 TERMO\COMP 123\Assignment GUI\Assignment GUI\bin\Debug\net6.0-windows\Assignment GUI.exe
+C:\Users\Bruna\Desktop\SOFTWARE ENG. TECH\Centennial\2 TERMO\COMP 123\Assignment GUI\Assignment GUI\bin\Debug\net6.0-windows\Assignment GUI.deps.json
+C:\Users\Bruna\Desktop\SOFTWARE ENG. TECH\Centennial\2 TERMO\COMP 123\Assignment GUI\Assignment GUI\bin\Debug\net6.0-windows\Assignment GUI.runtimeconfig.json
+C:\Users\Bruna\Desktop\SOFTWARE ENG. TECH\Centennial\2 TERMO\COMP 123\Assignment GUI\Assignment GUI\bin\Debug\net6.0-windows\Assignment GUI.dll
+C:\Users\Bruna\Desktop\SOFTWARE ENG. TECH\Centennial\2 TERMO\COMP 123\Assignment GUI\Assignment GUI\bin\Debug\net6.0-windows\Assignment GUI.pdb
+C:\Users\Bruna\Desktop\SOFTWARE ENG. TECH\Centennial\2 TERMO\COMP 123\Assignment GUI\Assignment GUI\obj\Debug\net6.0-windows\Assignment GUI.dll
+C:\Users\Bruna\Desktop\SOFTWARE ENG. TECH\Centennial\2 TERMO\COMP 123\Assignment GUI\Assignment GUI\obj\Debug\net6.0-windows\refint\Assignment GUI.dll
+C:\Users\Bruna\Desktop\SOFTWARE ENG. TECH\Centennial\2 TERMO\COMP 123\Assignment GUI\Assignment GUI\obj\Debug\net6.0-windows\Assignment GUI.pdb
+C:\Users\Bruna\Desktop\SOFTWARE ENG. TECH\Centennial\2 TERMO\COMP 123\Assignment GUI\Assignment GUI\obj\Debug\net6.0-windows\Assignment GUI.genruntimeconfig.cache
+C:\Users\Bruna\Desktop\SOFTWARE ENG. TECH\Centennial\2 TERMO\COMP 123\Assignment GUI\Assignment GUI\obj\Debug\net6.0-windows\ref\Assignment GUI.dll
+C:\Users\Bruna\Desktop\SOFTWARE ENG. TECH\Centennial\2 TERMO\COMP 123\Assignment GUI\Assignment GUI\obj\Debug\net6.0-windows\Assignment_GUI.Properties.Resources.resources
+C:\Users\Bruna\Desktop\Bruna\Centennial\2 TERMO\COMP 123\Assignment GUI\Assignment GUI\bin\Debug\net6.0-windows\Assignment GUI.exe
+C:\Users\Bruna\Desktop\Bruna\Centennial\2 TERMO\COMP 123\Assignment GUI\Assignment GUI\bin\Debug\net6.0-windows\Assignment GUI.deps.json
+C:\Users\Bruna\Desktop\Bruna\Centennial\2 TERMO\COMP 123\Assignment GUI\Assignment GUI\bin\Debug\net6.0-windows\Assignment GUI.runtimeconfig.json
+C:\Users\Bruna\Desktop\Bruna\Centennial\2 TERMO\COMP 123\Assignment GUI\Assignment GUI\bin\Debug\net6.0-windows\Assignment GUI.dll
+C:\Users\Bruna\Desktop\Bruna\Centennial\2 TERMO\COMP 123\Assignment GUI\Assignment GUI\bin\Debug\net6.0-windows\Assignment GUI.pdb
+C:\Users\Bruna\Desktop\Bruna\Centennial\2 TERMO\COMP 123\Assignment GUI\Assignment GUI\obj\Debug\net6.0-windows\Assignment GUI.csproj.AssemblyReference.cache
+C:\Users\Bruna\Desktop\Bruna\Centennial\2 TERMO\COMP 123\Assignment GUI\Assignment GUI\obj\Debug\net6.0-windows\Assignment_GUI.Bruna.resources
+C:\Users\Bruna\Desktop\Bruna\Centennial\2 TERMO\COMP 123\Assignment GUI\Assignment GUI\obj\Debug\net6.0-windows\Assignment_GUI.Properties.Resources.resources
+C:\Users\Bruna\Desktop\Bruna\Centennial\2 TERMO\COMP 123\Assignment GUI\Assignment GUI\obj\Debug\net6.0-windows\Assignment GUI.csproj.GenerateResource.cache
+C:\Users\Bruna\Desktop\Bruna\Centennial\2 TERMO\COMP 123\Assignment GUI\Assignment GUI\obj\Debug\net6.0-windows\Assignment GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruna\Desktop\Bruna\Centennial\2 TERMO\COMP 123\Assignment GUI\Assignment GUI\obj\Debug\net6.0-windows\Assignment GUI.AssemblyInfoInputs.cache
+C:\Users\Bruna\Desktop\Bruna\Centennial\2 TERMO\COMP 123\Assignment GUI\Assignment GUI\obj\Debug\net6.0-windows\Assignment GUI.AssemblyInfo.cs
+C:\Users\Bruna\Desktop\Bruna\Centennial\2 TERMO\COMP 123\Assignment GUI\Assignment GUI\obj\Debug\net6.0-windows\Assignment GUI.csproj.CoreCompileInputs.cache
+C:\Users\Bruna\Desktop\Bruna\Centennial\2 TERMO\COMP 123\Assignment GUI\Assignment GUI\obj\Debug\net6.0-windows\Assignment GUI.dll
+C:\Users\Bruna\Desktop\Bruna\Centennial\2 TERMO\COMP 123\Assignment GUI\Assignment GUI\obj\Debug\net6.0-windows\refint\Assignment GUI.dll
+C:\Users\Bruna\Desktop\Bruna\Centennial\2 TERMO\COMP 123\Assignment GUI\Assignment GUI\obj\Debug\net6.0-windows\Assignment GUI.pdb
+C:\Users\Bruna\Desktop\Bruna\Centennial\2 TERMO\COMP 123\Assignment GUI\Assignment GUI\obj\Debug\net6.0-windows\Assignment GUI.genruntimeconfig.cache
+C:\Users\Bruna\Desktop\Bruna\Centennial\2 TERMO\COMP 123\Assignment GUI\Assignment GUI\obj\Debug\net6.0-windows\ref\Assignment GUI.dll
